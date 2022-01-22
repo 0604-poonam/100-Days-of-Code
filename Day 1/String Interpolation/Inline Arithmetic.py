@@ -1,6 +1,5 @@
 
 #inline arithmetic
-
 a = 25
 b = 10
 
