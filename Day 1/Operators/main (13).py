@@ -1,0 +1,27 @@
+
+#comparison operator
+
+x = 25
+y = 10
+
+# Output: x > y is False
+print('x > y is',x>y)
+
+# Output: x < y is True
+print('x < y is',x<y)
+
+# Output: x == y is False
+print('x == y is',x==y)
+
+# Output: x != y is True
+print('x != y is',x!=y)
+
+# Output: x >= y is False
+print('x >= y is',x>=y)
+
+# Output: x <= y is True
+print('x <= y is',x<=y)
+
+
+
+
