@@ -5,5 +5,5 @@
 import random
 
 #range is (90,100)
-print(random.randint(9,100))
+print(random.randint(90,100))
 
