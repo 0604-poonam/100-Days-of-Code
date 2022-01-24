@@ -11,10 +11,11 @@
          Python Operators
          
 DAY 2 : Basic Python Problem Solving
-        Square Root
-        Adding Two Numbers
-        Generate a Random Number
-        Area of Triangle
-        Quadratic Equation
-        Swap Two Variables
+
+        Square Root,
+        Adding Two Numbers,
+        Generate a Random Number,
+        Area of Triangle,
+        Quadratic Equation,
+        Swap Two Variables,
         
