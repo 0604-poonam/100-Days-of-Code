@@ -6,11 +6,13 @@
 
  **Content**
  
- DAY 1 : Python Variables,
+ DAY 1 - 4 : Python Variables,
          Python Datatypes,
-         Python Operators
+         Python Operators,\
+         Dictionary,Set,
+         List,Tuple
          
-DAY 2 : Basic Python Problem Solving
+DAY 5 : Basic Python Problem Solving
 
         Square Root,
         Adding Two Numbers,
